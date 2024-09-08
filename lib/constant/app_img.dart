@@ -1,0 +1,30 @@
+class AppImages {
+  static const String splashLogo = "assets/img/spalsh_logo.png";
+  static const String locationLogo = "assets/img/location.png";
+  static const String yaaFoodsLogo = "assets/img/yaa_foods_logo.png";
+  static const String flagImgLogo = "assets/img/flag_img.png";
+  static const String ovelImg = "assets/img/oval.png";
+  static const String starImg = "assets/img/star_img.png";
+  static const String cardImg = "assets/img/card_icon.png";
+  static const String orderImg = "assets/img/order_icon.png";
+  static const String timeIconImg = "assets/img/time_icon.png";
+  static const String homeImg = "assets/img/home.png";
+  static const String myWalletImg = "assets/img/my_wallet.png";
+  static const String logOutImg = "assets/img/Logout.png";
+  static const String notification = "assets/img/notification.png";
+  static const String history = "assets/img/history.png";
+  static const String cancelIcon = "assets/icon/cancel_icon.png";
+  static const String addIcon = "assets/icon/add_icon.png";
+  static const String completeTranscationIcon = "assets/icon/complete_icon.png";
+  static const String bananaImg = "assets/img/banana.png";
+  static const String chocolateImg = "assets/img/chocolate.png";
+  static const String contectIcon = "assets/icon/contact_icon.png";
+  static const String shareIcon = "assets/icon/share_icon.png";
+  static const String whatsappIcon = "assets/icon/whatsapp_icon.png";
+  static const String carIcon = "assets/icon/car_icon.png";
+  static const String dollarIcon = "assets/icon/dollar_icon.png";
+  static const String paymentIcon = "assets/icon/payment_icon.png";
+  static const String refreshIcon = "assets/img/refresh.png";
+  static const String cashIcon = "assets/img/cash.png";
+  static const String walletIcon = "assets/img/wallet.png";
+}
